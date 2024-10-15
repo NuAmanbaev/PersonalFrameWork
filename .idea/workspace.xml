@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81b8f6c-da42-480b-b7e2-e9ebf51f4c6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumberReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CucucmberRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/CashWiseLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/CashWiseLocators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/CashWise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Methods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/SeleniumUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/testReport.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CucucmberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucucmberRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CashWiseLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CashWiseLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/CashWise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/CashWise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/SeleniumUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/CashWiseLogin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/CashWiseLogin.feature" afterDir="false" />
-    </list>
+    <list default="true" id="b81b8f6c-da42-480b-b7e2-e9ebf51f4c6d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
